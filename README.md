@@ -1,1 +1,0 @@
-# DenseNet-CIFAR100
